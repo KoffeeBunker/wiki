@@ -1,4 +1,5 @@
 ---
+id: vehicle_color_ids
 title: Vehicle Color IDs
 ---
 
