@@ -78,6 +78,8 @@ new PlayerText:gMyPlayerText = PlayerText:INVALID_TEXT_DRAW;
 
 The function names only differ slightly, with 'TextDraw' becoming 'PlayerTextDraw', with one exception: [CreatePlayerTextDraw](../functions/CreatePlayerTextDraw.md) ('TextDrawSetString' becomes 'PlayerTextDrawSetString').
 
+:::info IMPORTANT NOTE END :::
+
 ## Creating the Textdraw
 
 ![Image:320px-Textdraw_map.png](/images/textdraws/320px-Textdraw_map.png)
